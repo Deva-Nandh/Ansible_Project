@@ -1,3 +1,0 @@
----
-- name: Include Nginx installation tasks
-  include_tasks: copy.yaml
